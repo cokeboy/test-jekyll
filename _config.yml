@@ -1,4 +1,5 @@
 name: 杰克儿 
-markdown: redcarpet
+markdown: rdiscount
 pygments: true
 encoding: 'utf-8'
+safe: false
